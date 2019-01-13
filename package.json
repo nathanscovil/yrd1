@@ -1,0 +1,30 @@
+{
+  "name": "yrd1",
+  "version": "0.0.1",
+  "description": "Utilities for other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanscovil/yrd1.git"
+  },
+  "keywords": [
+    "angular",
+    "builders"
+  ],
+  "author": "Nathan Scovil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanscovil/yrd1/issues"
+  },
+  "homepage": "https://github.com/nathanscovil/yrd1#readme",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@angular-devkit/build-angular": "^0.12.1"
+  }
+}

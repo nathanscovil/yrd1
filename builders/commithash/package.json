@@ -1,0 +1,19 @@
+{
+  "name": "@yrd1/commithash",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Nathan Scovil",
+  "builders": "builders.json",
+  "scripts": {
+    "build": "../../node_modules/.bin/tsc"
+  },
+  "devDependencies": {
+    "@types/dateformat": "^3.0.0"
+  },
+  "peerDependencies": {
+    "@angular-devkit/build-angular": ">=0.12.1"
+  },
+  "dependencies": {
+    "dateformat": "^3.0.3"
+  }
+}
