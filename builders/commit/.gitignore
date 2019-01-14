@@ -1,0 +1,5 @@
+node_modules
+typings
+
+src/commit.builder.js
+src/commit.builder.js.map

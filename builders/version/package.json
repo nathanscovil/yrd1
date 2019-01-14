@@ -1,5 +1,5 @@
 {
-  "name": "@yrd1/commithash",
+  "name": "@yrd1/version",
   "version": "0.0.1",
   "license": "MIT",
   "author": "Nathan Scovil",
@@ -7,13 +7,9 @@
   "scripts": {
     "build": "../../node_modules/.bin/tsc"
   },
-  "devDependencies": {
-    "@types/dateformat": "^3.0.0"
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "@angular-devkit/build-angular": ">=0.12.1"
   },
-  "dependencies": {
-    "dateformat": "^3.0.3"
-  }
+  "dependencies": {}
 }

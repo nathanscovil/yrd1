@@ -1,0 +1,12 @@
+{
+  "id": "VersionBuilderSchema",
+  "title": "Timestamp builder",
+  "description": "Timestamp builder options",
+  "properties": {
+    "path": {
+      "type": "string",
+      "description": "Path to the version file",
+      "default": "./version.txt"
+    }
+  }
+}

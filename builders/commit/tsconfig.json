@@ -4,6 +4,6 @@
     "declarationDir": "typings"
   },
   "files": [
-    "src/commithash.builder.ts"
+    "src/commit.builder.ts"
   ]
 }

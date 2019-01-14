@@ -2,9 +2,9 @@
   "$schema": "@angular-devkit/architect/src/builders-schema.json",
   "builders": {
     "file": {
-      "class": "./src/commithash.builder.js",
+      "class": "./src/commit.builder.js",
       "schema": "./src/schema.json",
-      "description": "Builder that creates timestamp"
+      "description": "Builder that creates file with the current commit hash"
     }
   }
 }

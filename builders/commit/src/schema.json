@@ -1,0 +1,12 @@
+{
+  "id": "CommitBuilderSchema",
+  "title": "Commit builder",
+  "description": "Commit builder options",
+  "properties": {
+    "path": {
+      "type": "string",
+      "description": "Path to the commit file",
+      "default": "./commit.txt"
+    }
+  }
+}

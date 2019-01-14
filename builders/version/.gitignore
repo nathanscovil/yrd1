@@ -1,0 +1,5 @@
+node_modules
+typings
+
+src/version.builder.js
+src/version.builder.js.map
