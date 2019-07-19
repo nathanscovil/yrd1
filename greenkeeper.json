@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "builders/commit/package.json",
+        "builders/version/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
