@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nathanscovil/yrd1#readme",
   "devDependencies": {
-    "ts-node": "^8.3.0",
+    "ts-node": "^8.6.2",
     "typescript": "^3.2.2"
   },
   "dependencies": {
