@@ -25,6 +25,6 @@
     "typescript": "^3.2.2"
   },
   "dependencies": {
-    "@angular-devkit/build-angular": "^0.803.0"
+    "@angular-devkit/build-angular": "^0.901.7"
   }
 }
